@@ -1,0 +1,25 @@
+{
+    
+    "metaType":"meta",
+    "targetAction":["Nodes/admin_add","Nodes/admin_edit"],
+    "element":"",
+    "boxes":{
+        "Product Properties":[
+            {
+                "type":"select",
+                "name":"size"
+            },
+            {
+                "type":"text",
+                "name":"price",
+                "defaultValue":"2000"
+            },
+            {
+                "type":"text",
+                "name":"weight",
+                "defaultValue":"2"
+            }
+        ]
+    }
+    
+}

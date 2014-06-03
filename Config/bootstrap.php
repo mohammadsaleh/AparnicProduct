@@ -1,0 +1,2 @@
+<?php
+AparnicMetabox::addMetaJson('AparnicProduct');
